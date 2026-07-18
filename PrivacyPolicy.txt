@@ -1,0 +1,132 @@
+Alarm Clock PowerPro Privacy Policy
+Published 2026.07.18
+
+======================================================================
+1. Overview
+
+Your privacy is important to me.
+
+Alarm Clock PowerPro is designed to operate primarily as a local desktop application. Under normal operation, the software does not transmit your personal information, alarm data, configuration, or usage information to the Licensor.
+
+This Privacy Policy explains what information the software stores locally, what information may be shared voluntarily by you, and how information relating to donations and commercial licensing is handled.
+
+======================================================================
+2. Information Stored on Your Computer
+
+The software stores information locally to provide its functionality. Depending on which features you use, this may include:
+
+* Alarm definitions and schedules
+* Alarm names and notes entered by you
+* Configuration settings
+* Application state
+* Diagnostic or log files
+* Other files necessary for operation
+
+These files remain on your computer unless you choose to delete or share them.
+
+======================================================================
+3. Support ZIP
+
+The software includes an optional Support ZIP feature to assist with troubleshooting.
+
+When you choose to create a Support ZIP, the software packages the contents of its local /Data/ directory into a ZIP archive on your computer.
+
+Depending on your installation and usage, the archive may contain:
+
+* Alarm definitions
+* Alarm names and notes
+* Configuration files
+* State files
+* Log files
+* Licensing information
+* Other application data
+
+Alarm names, notes, and other user-created content may contain sensitive or confidential information entered by you.
+
+The Support ZIP may also include a locally generated installation fingerprint used for licensing purposes. This fingerprint is derived from characteristics of your computer (such as hardware identifiers and system configuration) and is intended only to identify an installation. It is not intended to identify you personally.
+
+The Support ZIP is created entirely on your computer. It is not transmitted automatically.
+
+You should review the archive before sending it to anyone. You may delete files or choose not to send the archive if it contains information you do not wish to share.
+
+======================================================================
+4. Information You Choose to Send
+
+If you voluntarily email a Support ZIP, log file, screenshot, or other information to the Licensor, that information will be used solely for purposes such as:
+
+* Providing technical support
+* Investigating bugs
+* Diagnosing compatibility problems
+* Improving future versions of the software
+* Responding to your inquiries
+
+You control whether any information is sent.
+
+======================================================================
+5. Donations
+
+Donations are voluntary and are not required to use the software.
+
+Donations made through Buy Me a Coffee are processed by Stripe or other payment providers used by Buy Me a Coffee.
+
+The Licensor does not receive or store your payment card information.
+
+The Licensor may receive information provided by the payment platform, such as:
+
+* Your name
+* Your email address
+* Donation amount
+* Any message you choose to include
+
+This information is used only to acknowledge donations, respond to inquiries, maintain financial records, or communicate regarding licensing if requested.
+
+======================================================================
+6. Commercial Licensing
+
+If you contact the Licensor regarding a Commercial License, information you provide (such as your name, email address, organization, and licensing requirements) will be used solely for negotiating and administering that license.
+
+======================================================================
+7. Third-Party Services
+
+The project may make use of third-party services, including but not limited to:
+
+* GitHub (software distribution)
+* Buy Me a Coffee (donations)
+* Stripe (payment processing)
+* PayPal (donations)
+
+Those services operate under their own privacy policies, which govern information collected directly by them.
+
+======================================================================
+8. Data Retention
+
+Information voluntarily sent to the Licensor may be retained for as long as reasonably necessary to:
+
+* Provide support
+* Maintain licensing records
+* Comply with legal or tax obligations
+* Improve the software
+
+======================================================================
+9. Security
+
+Reasonable efforts are made to protect information voluntarily provided to the Licensor. However, no method of electronic storage or transmission can be guaranteed to be completely secure.
+
+======================================================================
+10. Children's Privacy
+
+Alarm Clock PowerPro is not directed toward children under the age of 13, and the Licensor does not knowingly collect personal information from children.
+
+======================================================================
+11. Changes to this Privacy Policy
+
+This Privacy Policy may be updated from time to time. Updated versions will be published with future releases of the software or on the project's website.
+
+======================================================================
+12. Contact
+
+Questions regarding this Privacy Policy may be directed to:
+
+Bryan V. ("brain75")
+
+Email: brain_75@yahoo.com

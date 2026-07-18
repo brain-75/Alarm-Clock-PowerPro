@@ -1,0 +1,362 @@
+Alarm Clock PowerPro License
+Version 2026.07.07
+
+Copyright (c) 2026 Bryan V. aka "brain75" - brain_75@yahoo.com
+All Rights Reserved.
+
+======================================================================
+LAY SUMMARY
+======================================================================
+In plain language: This Software is free for personal and limited
+internal organizational use. If you intend to deploy it at scale,
+bundle it with products, redistribute it, profit from it, or otherwise use it as part
+of a commercial offering, you must first obtain a Commercial License.
+
+You may install this software for free on up to three (3) of your own
+devices -- whether personal or for your own internal business use.
+That covers things like your desktop, laptop, and phone. It covers a
+small business owner plus two employees. It does NOT cover mass
+deployment, embedding in products, preloading on hardware, or any
+other large-scale use without negotiating a paid license with me first.
+
+Examples of things that require a Commercial License:
+	- Samsung installing 10,000 copies in IoT refrigerators as a built-in feature.
+	- IBM imaging the software onto 5,000 employee workstations.
+	- A small company deploying 22 copies across every device in the office.
+	- Anyone rebranding, reselling, or bundling the software regardless of profit.
+
+If your use is small-scale and not-for-profit, you're fine. If it looks
+like a business deal where someone is making significant money and my
+software is part of it, we need to talk.
+
+This is not just my restriction -- the Software uses third-party
+libraries (including but not limited to Qt) that are separately
+licensed. A Commercial License from me does NOT grant you any rights
+to those libraries. You must comply with each library's license terms
+independently, and those terms may require separate fees or restrict
+commercial use. See Section 6 for details.
+
+======================================================================
+1. DEFINITIONS
+======================================================================
+
+a) "Installation" means each copy of the Software that is installed,
+loaded, executed, or otherwise made available for use on a single
+physical device, virtual machine, container, cloud instance, or other
+computing environment. Each such device or environment constitutes a
+separate Installation.
+
+b) "Concurrent Installation" means an Installation that exists and is
+capable of use, whether or not the Software is actively running.
+Providing one Installation to multiple users or devices through
+networking, virtualization, terminal services, remote access, or
+similar technologies does not reduce the number of Installations.
+
+c) "Commercial Deployment" means any distribution, installation,
+embedding, bundling, integration, preloading, or use of the Software
+that exceeds the free license grant in Section 2, or that occurs in
+connection with any commercial activity beyond ordinary internal use
+by a single Entity within the free license limits. Commercial
+Deployment includes but is not limited to: OEM bundling, IoT
+embedding, white-labeling, preinstallation on hardware, enterprise
+deployment to multiple employees or workstations, offering the
+Software as part of a paid service, or any use that generates revenue
+directly or indirectly through the use, distribution, or integration
+of the Software.
+
+d) "Commercial License" means a separate paid written license agreement
+granted by the Licensor authorizing use of the Software beyond the
+scope of Section 2.
+
+e) "Entity" means any individual, corporation, partnership, limited
+liability company, government agency, educational institution,
+non-profit organization, association, trust, or any other legal entity.
+
+f) "Licensor" means the copyright holder: Bryan V. aka "brain75" - brain_75@yahoo.com
+
+g) "Software" means the software application known as "Alarm Clock
+PowerPro" in executable form, together with all associated media,
+printed materials, electronic documentation, configuration files, and
+any updates, upgrades, or modified versions thereof made available by
+the Licensor.
+
+======================================================================
+2. LICENSE GRANT
+======================================================================
+
+Subject to your continued compliance with this Agreement, the Licensor
+grants you a royalty-free, non-exclusive, non-transferable, revocable
+license to install and use the Software, free of charge, for any lawful
+purpose including personal use and internal business use, up to a
+maximum of three (3) Concurrent Installations per Entity.
+
+This license is provided at no cost for up to three (3) Concurrent
+Installations. It covers your own devices for your own purposes. No
+ownership or title is transferred -- the Software is licensed, not sold.
+
+======================================================================
+3. RESTRICTIONS
+======================================================================
+
+Except as expressly permitted by Section 2 or authorized under a
+separate Commercial License, you shall NOT, and shall not permit any
+third party to:
+
+a) Install or use the Software in excess of three (3) Concurrent
+Installations without a Commercial License.
+
+b) Deploy the Software via automated deployment, imaging software,
+enterprise management software, Active Directory, Microsoft Intune,
+Group Policy, SCCM, system imaging, disk cloning, MDM, or similar
+technologies to multiple devices -- each device receiving the Software
+constitutes a separate Installation requiring a Commercial License if
+the total exceeds three (3).
+
+c) Embed, bundle, integrate, or preload the Software into or onto any
+hardware, appliance, IoT device, embedded system, consumer electronic,
+kiosk, vehicle, or any other physical product.
+
+d) Distribute, sell, sublicense, rent, lease, lend, or otherwise make
+the Software available for value, whether alone or as part of any
+product or service.
+
+e) White-label, rebrand, remove, alter, or obscure any copyright
+notice, trademark, attribution, or proprietary notice contained in or
+on the Software.
+
+f) Use the Software in a multi-user environment, shared terminal
+server, network deployment, or any configuration that serves a single
+install to multiple users or devices.
+
+g) Modify, adapt, translate, reverse-engineer, decompile, disassemble,
+or create derivative works based on the Software, except to the limited
+extent expressly permitted by applicable law notwithstanding this
+restriction.
+
+Any violation of this Section 3 is a material breach of this Agreement
+and automatically terminates all license rights granted hereunder.
+
+======================================================================
+4. REDISTRIBUTION
+======================================================================
+
+You may freely redistribute the ORIGINAL, UNMODIFIED distribution
+package provided that:
+  a) No files are modified, added, or removed.
+  b) This license is included verbatim.
+  c) No fee is charged specifically for the Software.
+
+You may not distribute modified versions without written permission
+from the Licensor.
+
+======================================================================
+5. MODIFICATION & ATTRIBUTION
+======================================================================
+
+You may modify the Software solely for your own private internal use.
+Modified versions may not be distributed or made available to any third
+party without written permission from the Licensor.
+
+All copyright notices, trademarks, and attribution contained within the
+Software may not be removed, altered, or obscured for any reason.
+
+======================================================================
+6. COMMERCIAL LICENSING
+======================================================================
+
+Any use of the Software beyond the scope of Section 2 requires a
+separate Commercial License negotiated directly with the Licensor.
+This includes but is not limited to:
+
+  a) More than three (3) Concurrent Installations by any Entity.
+  b) Any Commercial Deployment as defined in Section 1(c).
+  c) Any embedding, bundling, preloading, or OEM use.
+  d) Any enterprise-wide deployment or imaging.
+  e) Any white-labeling or rebranding.
+  f) Any use in a product or service offered for sale.
+
+Commercial License terms, scope, and fees are individually negotiated.
+Making a donation does not constitute purchasing a Commercial License
+or grant any additional rights.
+All commercial license must be negotiated in writing, donation does not constitute license.
+
+Contact: brain_75@yahoo.com
+
+======================================================================
+7. THIRD-PARTY LIBRARIES
+======================================================================
+
+The Software includes components that are licensed by third parties.
+(Notably Qt)
+Those components remain subject to their respective license terms.
+
+Nothing in this Agreement grants rights under any third-party license.
+You are solely responsible for complying with the license terms
+applicable to those components.
+
+The Licensor makes no representation regarding the scope,
+interpretation, or applicability of any third-party license.
+
+======================================================================
+8. DONATIONS
+======================================================================
+
+Donations are voluntary expressions of appreciation and are never
+required to use the Software. Making a donation does not:
+	a) Grant additional rights beyond the free license in Section 2.
+	b) Constitute a Commercial License.
+	c) Create any contractual obligation beyond this Agreement.
+
+Donations are processed by either PayPal or Stripe through Buy Me a Coffee.
+	I do not receive or store your payment card information.
+	I may receive your name, email address, donation amount, and any message you voluntarily provide.
+
+======================================================================
+9. OWNERSHIP & INTELLECTUAL PROPERTY
+======================================================================
+
+The Licensor retains all right, title, and interest in and to the
+Software, including all copyright, trademark, trade secret, and other
+intellectual property rights. No ownership rights are transferred to
+you. All rights not expressly granted are reserved.
+
+======================================================================
+10. TERMINATION
+======================================================================
+
+This Agreement and all license rights granted hereunder automatically
+terminate, with immediate effect and without notice, upon any breach
+of any term of this Agreement, including but not limited to any
+violation of Section 3 (Restrictions).
+
+Upon termination, you must immediately cease all use of the Software
+and destroy or permanently uninstall all copies in your possession or
+control.
+
+Sections 9 (Ownership), 11 (Warranty Disclaimer), 12 (Limitation of
+Liability), 13 (Governing Law), 14 (Dispute Resolution), and 15
+(General) survive termination.
+
+======================================================================
+11. WARRANTY DISCLAIMER
+======================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS
+AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM
+EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR EXPRESSLY DISCLAIMS
+ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY,
+AND NON-INFRINGEMENT. THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE
+WILL MEET YOUR REQUIREMENTS, OPERATE UNINTERRUPTED, OR BE ERROR-FREE.
+
+======================================================================
+12. LIMITATION OF LIABILITY
+======================================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF
+PROFITS, REVENUE, DATA, GOODWILL, OR BUSINESS OPPORTUNITY, ARISING
+OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OR INABILITY TO
+USE THE SOFTWARE, REGARDLESS OF THE LEGAL THEORY AND WHETHER OR NOT
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+THE LICENSOR'S TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED THE TOTAL
+AMOUNT PAID BY YOU TO THE LICENSOR FOR THE SOFTWARE (WHICH, FOR THE
+FREE LICENSE, IS ZERO).
+
+======================================================================
+13. GOVERNING LAW & COLORADO COMPLIANCE
+======================================================================
+
+This Agreement is governed by the laws of the State of Colorado,
+United States, excluding its conflict-of-law principles.
+
+Licensee agrees to comply with all applicable Colorado laws
+regarding the use, taxation, and distribution of software, now in
+effect or hereafter enacted.
+
+======================================================================
+14. DISPUTE RESOLUTION
+======================================================================
+
+a) Licensor's Choice of Forum. The Licensor alone has the exclusive
+right to elect whether any dispute, claim, or controversy arising out
+of or relating to this Agreement or the Software (whether in contract,
+tort, statute, or otherwise) shall be resolved by:
+     i)   binding arbitration administered by a recognized arbitration
+          provider chosen by the Licensor;
+     ii)  litigation in a state or federal court of competent
+          jurisdiction chosen by the Licensor; or
+     iii) any other legally binding dispute resolution mechanism chosen
+          by the Licensor.
+
+b) Consent to Jurisdiction. Licensee hereby irrevocably consents to
+the jurisdiction and venue selected by the Licensor under Section
+14(a) and waives any objection based on improper venue, inconvenient
+forum, or lack of personal jurisdiction.
+
+c) Mandatory Fee-Shifting. Where allowed by law, any dispute resolution proceeding under
+this Section 14, regardless of who initiated the proceeding, regardless
+of which party prevails, and regardless of the specific claims or
+outcome, Licensee shall pay all legal fees, costs, expenses,
+disbursements, and charges of every kind incurred by both Licensee and
+Licensor in connection with the dispute, including but not limited to
+attorneys' fees, expert witness fees, court costs, arbitration fees,
+mediation fees, and any appeal. This obligation applies to the entire
+proceeding from initiation through any appeals.
+
+d) No Offset. Licensee's obligation under Section 14(c) is absolute and
+shall not be reduced, offset, or limited by any award, judgment, or
+finding in Licensee's favor.
+
+======================================================================
+15. GENERAL
+======================================================================
+
+a) Entire Agreement. This Agreement constitutes the entire agreement
+between you and the Licensor regarding the Software and supersedes all
+prior communications and agreements, except any separate Commercial
+License.
+
+b) Severability. If any provision is held unenforceable, the remainder
+continues in full force and the unenforceable provision shall be
+modified to the minimum extent necessary to make it enforceable.
+
+c) No Waiver. Failure to enforce any provision is not a waiver.
+
+d) Assignment. You may not assign this Agreement without prior written
+consent. The Licensor may freely assign.
+
+e) Interpretation. Headings are for convenience only. "Include" and
+"including" are illustrative and do not limit the preceding words.
+
+======================================================================
+16. RESERVED RIGHTS
+======================================================================
+
+All rights not expressly granted by this Agreement are reserved by the
+Licensor.
+
+======================================================================
+17. PRIVACY & INSTALLATION RECORDS
+======================================================================
+
+The Software is designed to operate without transmitting personal
+information to the Licensor.
+
+The Software may create local configuration, diagnostic, or
+installation records on the user's device for operational purposes.
+Unless expressly enabled by the user, such information is not
+transmitted to the Licensor.
+
+
+======================================================================
+18. CONTACT
+======================================================================
+
+For questions, Commercial Licensing inquiries, or other correspondence:
+
+Email: brain_75@yahoo.com
+
+Thank you for using Alarm Clock PowerPro.
