@@ -1,5 +1,5 @@
 Alarm Clock PowerPro License
-Version 2026.07.07
+Version 2026.07.30
 
 Copyright (c) 2026 Bryan V. aka "brain75" - brain_75@yahoo.com
 All Rights Reserved.
@@ -180,7 +180,7 @@ Making a donation does not constitute purchasing a Commercial License
 or grant any additional rights.
 All commercial license must be negotiated in writing, donation does not constitute license.
 
-Contact: brain_75@yahoo.com
+Contact: Bryan V - brain_75@yahoo.com
 
 ======================================================================
 7. THIRD-PARTY LIBRARIES
